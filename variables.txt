@@ -1,0 +1,14 @@
+var famousPerson = "Joel Embiid"
+var isActive = True
+var famousPerson = "Ben Simmons"
+var num3 = 7
+var num9 = 11
+var sum = 18
+var animals = ["lions", "tigers", "bears"]
+console.log(animals);
+animals index = array.indexOf("lions");
+if (index > -1) {
+array.splice(index, 1);
+}
+
+console.log (`${famousPerson} ${famousPerson .length}`);
