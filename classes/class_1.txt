@@ -1,0 +1,13 @@
+Class: Library
+
+Attributes:
+seatingCapacity (integer)
+headLibrarian (string)
+sections (array)
+isOpen (boolean)
+
+Methods:
+openStudyRooms (doubles seatingCapacity)
+shiftSwap (changes headLibrarian string)
+networkOperational (adds "internet cafe" to sections array)
+fireDrill (sets isOpen to false)
