@@ -1,0 +1,13 @@
+Class: Weight Room
+
+Attributes:
+benchesOpen (integer)
+color (string)
+cardioEquipment (array)
+isReserved (boolean)
+
+Methods:
+donation (adds to cardioEquipment array)
+seasonalPaint (changes color string)
+coolDown (sets benchesOpen to 12)
+spiritNight (sets isReserved to false)
