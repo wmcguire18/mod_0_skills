@@ -1,0 +1,11 @@
+Conwell Egan HS Library
+
+seatingCapacity = 30
+headLibrarian = "Carol"
+sections = ["fiction", "nonfiction", "new media", "periodicals"]
+isOpen = true
+
+openStudyRooms seatingCapacity = 60
+shiftSwap headLibrarian = "Father John"
+networkOperational sections = ["fiction", "nonfiction", "new media", "periodicals", "internet cafe"]
+fireDrill isOpen = false
