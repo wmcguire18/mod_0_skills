@@ -1,0 +1,13 @@
+Instance: Conwell Egan HS Weight Room
+
+Attributes:
+benchesOpen = 8
+color = "blue"
+cardioEquipment = ["treadmill", "elliptical, "stairmaster",]
+isReserved = true
+
+Methods:
+donation cardioEquipment = ["treadmill", "elliptical, "stairmaster", "rowing machine"]
+seasonalPaint color = "white"
+coolDown benchesOpen = 12
+spiritNight isReserved = false
