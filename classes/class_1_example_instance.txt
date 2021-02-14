@@ -7,5 +7,5 @@ isOpen = true
 
 openStudyRooms seatingCapacity = 60
 swapShift headLibrarian = "Father John"
-networkOperational sections = ["fiction", "nonfiction", "new media", "periodicals", "internet cafe"]
+activateNetwork sections = ["fiction", "nonfiction", "new media", "periodicals", "internet cafe"]
 startFireDrill isOpen = false

@@ -8,6 +8,6 @@ isOpen (boolean)
 
 Methods:
 openStudyRooms (doubles seatingCapacity)
-shiftSwap (changes headLibrarian string)
-networkOperational (adds "internet cafe" to sections array)
-fireDrill (sets isOpen to false)
+swapShift (changes headLibrarian string)
+activateNetwork (adds "internet cafe" to sections array)
+startFireDrill (sets isOpen to false)

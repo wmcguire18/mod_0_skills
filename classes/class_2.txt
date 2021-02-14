@@ -1,4 +1,4 @@
-Class: Weight Room
+Class: WeightRoom
 
 Attributes:
 benchesOpen (integer)
@@ -7,7 +7,7 @@ cardioEquipment (array)
 isReserved (boolean)
 
 Methods:
-donation (adds to cardioEquipment array)
-seasonalPaint (changes color string)
+donate (adds to cardioEquipment array)
+paint (changes color string)
 coolDown (sets benchesOpen to 12)
-spiritNight (sets isReserved to false)
+activateSpiritNight (sets isReserved to false)

@@ -1,4 +1,4 @@
-Instance: Conwell Egan HS Weight Room
+Instance: ConwellEganHSWeightRoom
 
 Attributes:
 benchesOpen = 8
@@ -7,7 +7,7 @@ cardioEquipment = ["treadmill", "elliptical, "stairmaster",]
 isReserved = true
 
 Methods:
-donation cardioEquipment = ["treadmill", "elliptical, "stairmaster", "rowing machine"]
-seasonalPaint color = "white"
+donate cardioEquipment = ["treadmill", "elliptical, "stairmaster", "rowing machine"]
+paint color = "white"
 coolDown benchesOpen = 12
-spiritNight isReserved = false
+activateSpiritNight isReserved = false
