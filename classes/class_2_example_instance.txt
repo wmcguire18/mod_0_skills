@@ -7,7 +7,7 @@ cardioEquipment = ["treadmill", "elliptical, "stairmaster",]
 isReserved = true
 
 Methods:
-donate cardioEquipment = ["treadmill", "elliptical, "stairmaster", "rowing machine"]
-paint color = "white"
+recieveDonation cardioEquipment = ["treadmill", "elliptical, "stairmaster", "rowing machine"]
+paintWalls color = "white"
 coolDown benchesOpen = 12
 activateSpiritNight isReserved = false
