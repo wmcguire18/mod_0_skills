@@ -7,7 +7,7 @@ cardioEquipment (array)
 isReserved (boolean)
 
 Methods:
-donate (adds to cardioEquipment array)
-paint (changes color string)
+recieveDonation (adds to cardioEquipment array)
+paintWalls (changes color string)
 coolDown (sets benchesOpen to 12)
 activateSpiritNight (sets isReserved to false)
